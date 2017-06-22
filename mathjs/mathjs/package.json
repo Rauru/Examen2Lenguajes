@@ -1,0 +1,9 @@
+{
+  "name": "mathjs",
+  "version": "0.0.0",
+  "description": "mathjs",
+  "main": "app.js",
+  "author": {
+    "name": "Rauru"
+  }
+}
